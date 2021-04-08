@@ -3658,8 +3658,9 @@ iframe {
 /*App Features ends*/
 /* Counters */
 .bg-counters {
-  /* background: url(../images/counter-bg.jpg) no-repeat center center; */
-  background: url(http://satyr.io/1920x953/grey) no-repeat center center;
+  background: url(../images/counter-bg.jpg) no-repeat center center;
+  /* background: url(http://satyr.io/1920x953/grey) no-repeat center center; */
+  /* background: url(../images/counter.jpg) no-repeat center center; */
   -webkit-background-size: cover;
   background-size: cover;
 }
